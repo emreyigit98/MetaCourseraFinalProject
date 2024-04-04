@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CourseraFinalProject</string>
+    <string name="onboarding_button_text">Sing In</string>
+    <string name="text_place_holder">Place Enter Email</string>
+    <string name="hero_text">We are a family owned Mediterranean restaurant,focused on traditional recipes served with a modern twist.</string>
+    <string name="error_button_text">Try Again</string>
+    <string name="image_error">Not Image</string>
+    <string name="little_lemon">Little Lemon</string>
+    <string name="chicago">Chicago</string>
+    <string name="log_out_button">Log Out</string>
+</resources>
